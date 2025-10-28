@@ -1,0 +1,10 @@
+[
+  {
+    "id": 1,
+    "patientName": "uday",
+    "doctor": "Dr. Smith",
+    "date": "2025-10-29",
+    "time": "02:45",
+    "created_at": "2025-10-29T00:42:12.402607"
+  }
+]
